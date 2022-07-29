@@ -31,3 +31,5 @@ sudo python3 remove-heroku-cli.py
 
 * Be Careful, use this script if you know what are you doing, maybe it can break other stuffs that you might want to use
 
+
+### Made with 🥰 by [Dpbm](https://github.com/Dpbm)
