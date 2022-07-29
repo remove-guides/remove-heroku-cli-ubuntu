@@ -27,7 +27,7 @@ sudo python3 remove-heroku-cli.py
 
 ## Explanations
 
-* This script will not remove plugins and files from vim, oh-my-zsh, compose, and other files created by user, unless if these files are in any target directories.
+* This script will not remove plugins and files from vim, oh-my-zsh, and other files created by user, unless if these files are in any target directories.
 
 * Be Careful, use this script if you know what are you doing, maybe it can break other stuffs that you might want to use
 
