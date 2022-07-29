@@ -2,7 +2,7 @@
 
 # Remove [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) from [Ubuntu](https://ubuntu.com/) based distros
 
-## Remove all dependencies and remain files from Heroku CLI
+## Remove all dependencies and remaining files from Heroku CLI
 
 <br />
 <br />
